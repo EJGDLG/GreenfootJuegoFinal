@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Mobilbiru
+comment0.text=\r\n\ En\ este\ apartado\ lo\ que\ se\ busca\ es\ la\ colici\u00F3n\ contra\ el\ jugador\ y\ la\ \r\n\ velocidad\ de\ los\ obstaculos,\ que\ es\ lo\ que\ le\ da\ su\ nivel\ de\ dificultad\ alto\r\n\ en\ los\ reflejos\ del\ jugador.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

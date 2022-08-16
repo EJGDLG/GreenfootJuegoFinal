@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\r\n\ En\ este\ apartado\ lo\ que\ se\ hizo\ fue\ ver\ el\ tipo\ de\ carro\ ,\ su\ colici\u00F3n,\ el\ \r\n\ de\ puntuaje\ que\ obtendra.\r\n\ @author\ (Manuel.u81)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ checkKey()
+comment3.params=
+comment3.target=void\ end()
+comment4.params=
+comment4.target=void\ addscore()
+numComments=5
